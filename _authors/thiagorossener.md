@@ -2,9 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
+display_name: 2020 SK그룹연수
 github_username: thiagorossener
 facebook_username: thiagorossener
 twitter_username: thiagorossener
